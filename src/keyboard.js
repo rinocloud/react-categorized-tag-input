@@ -1,4 +1,4 @@
-export var TAB = 9;
+export var TAB = 13;
 export var ENTER = 13;
 export var BACKSPACE = 8;
 export var LEFT = 37;
